@@ -13,4 +13,4 @@ const dolarCanadense = valorInserido * 4.197
 const pesoArg = valorInserido * 0.055
 const pesoChi = valorInserido * 0.007
 
-//INCOPLETO
+//INCOMPLETO
